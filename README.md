@@ -4,4 +4,8 @@ Just my practise sessions with react.
 
 ## Work in this file
 
-Using useState Hook, using useEffect and other react components.
+An app which renders a list from an API. The rendering is done using Materials UI.
+
+## Technology Used
+
+The technologies used are React and Materials UI
